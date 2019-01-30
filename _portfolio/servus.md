@@ -5,6 +5,7 @@ category: arculat
 layout: post
 date: '2017-03-13T00:00:00+01:00'
 image: "img/portfolio/1.jpg"
+lead-image: "img/portfolio/1-full.jpg"
 ---
 A Servus szálláshely egy régi villa felújításával valósult meg. A megbízók szerettek volna egy olyan arculatot kialakítani ami egyszerre elegáns és és hívogatóan otthonos.
 
