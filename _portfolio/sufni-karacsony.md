@@ -1,7 +1,7 @@
 ---
 title: Sufni Karácsony
 description: Karácsonyi termékkatalógus
-category: kiadvanyok
+category: kiadványok
 layout: post
 date: '2017-03-13T00:00:00+01:00'
 image: "img/portfolio/2.jpg"
