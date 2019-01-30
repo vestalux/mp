@@ -5,6 +5,9 @@ category: webdesign
 layout: post
 date: '2017-03-13T00:00:00+01:00'
 image: "img/portfolio/3.jpg"
+lead-image: "img/portfolio/3-full.jpg"
+link: "http://goldconsulting.eu"
+link-text: goldconsulting.eu
 ---
 Az üzleti tanácsadásban nagyon fontos, hogy az ügyfél az első pillanattól kezdve megbízzon a szolgáltató cégben.
 

@@ -22,6 +22,10 @@ layout: default
 				{% endif %}
 <br/>
 <br/>
+{% if page.link %}
+				<center><a href="{{ page.link }}">{{ page.link-text }}</a></center>
+				{% endif %}
+<br/>
    {{ content }}
       </div>
   </div><!-- end .content -->
