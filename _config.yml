@@ -8,6 +8,7 @@ url: "http://monoport.hu/" # the base hostname & protocol for your site
 
 facebook_username: monoport
 github_username:
+logo: "img/monoport.svg"
 
 # Build settings
 markdown: kramdown
